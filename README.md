@@ -7,10 +7,10 @@
 
 ### Подготовка к работе 
 
-Будем писать UI тесты на рекламный кабинет Таргета с использованием python и pytest
-Форкаем репос https://github.com/VK-BMSTU-QA/classwork-selenium-2023 и делаем пр-ы
-Все тесты должны быть написаны в паттерне PageObject
-Примеры кода с лекции https://github.com/onimocity/qa_2022_autumn/tree/main/lection05-Selenium
+Будем писать UI тесты на рекламный кабинет Таргета с использованием python и pytest \
+Форкаем репос https://github.com/VK-BMSTU-QA/classwork-selenium-2023 и делаем пр-ы \
+Все тесты должны быть написаны в паттерне PageObject \
+Примеры кода с лекции https://github.com/onimocity/qa_2022_autumn/tree/main/lection05-Selenium \
 
 ###  Кейсы тестов на MyTarget
 
